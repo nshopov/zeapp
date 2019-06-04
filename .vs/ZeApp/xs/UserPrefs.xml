@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{83B0EBF9-7D2C-4257-A1AC-4C7898B0BDF5}|Default">
+  <MonoDevelop.Ide.ItemProperties.ZeApp.Android FirstBuild="True" PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ZeApp/Views/AboutPage.xaml">
+    <Files>
+      <File FileName="ZeApp/Views/AboutPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="ZeApp/Views/AboutPage.xaml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ZeApp" expanded="True">
+            <Node name="ZeApp" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="AboutPage.xaml" selected="True" />
+              </Node>
+            </Node>
+            <Node name="ZeApp.Android" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ZeApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E8C979E6-A322-4AF9-9ABD-A4FBF39411F8" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ZeApp.MobileAppService FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="multiprojId" Name="Multiple Projects">
+      <Items>
+        <StartupItem ItemId="{F5D759F2-503B-40AB-9DD9-B56460FC1E19}" ItemName="ZeApp.Android" />
+        <StartupItem ItemId="{83B0EBF9-7D2C-4257-A1AC-4C7898B0BDF5}" ItemName="ZeApp.iOS" />
+        <StartupItem ItemId="{2D5C14A9-6942-43D1-81DE-7A4ECB5E5CD1}" ItemName="ZeApp.MobileAppService" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+</Properties>
